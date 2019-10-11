@@ -1,5 +1,6 @@
 # fullPage.js
-![preview](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/intro.png)
+![preview](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/intro.png)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftoasterproof%2FfullPage.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftoasterproof%2FfullPage.js?ref=badge_shield)
+
 ![compatibility](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/compatible.gif?v=2)
 
 <p align="center">
@@ -66,6 +67,9 @@ It also provides touch support for mobile phones, tablets and touch screen compu
 Special thanks to [Browserstack](http://www.browserstack.com/) for supporting fullpage.js.
 
 ## License
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftoasterproof%2FfullPage.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftoasterproof%2FfullPage.js?ref=badge_large)
 
 ### Commercial license
 If you want to use fullPage to develop non open sourced sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary. Which means, you won't have to change your whole application source code to an open source license. [[Purchase a Fullpage Commercial License]](https://alvarotrigo.com/fullPage/pricing/)
